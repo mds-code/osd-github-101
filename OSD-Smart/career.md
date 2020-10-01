@@ -9,4 +9,5 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+1. Learn from mistakes and actively try not to dwell on them
 
